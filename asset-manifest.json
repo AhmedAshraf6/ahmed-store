@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/ahmed-store/static/css/main.7437dfce.css",
-    "main.js": "/ahmed-store/static/js/main.3f508e3a.js",
+    "main.js": "/ahmed-store/static/js/main.9e629040.js",
     "static/media/video-image.jpg": "/ahmed-store/static/media/video-image.b0bdb33f84f28699792b.jpg",
     "static/media/hero-bg.jpg": "/ahmed-store/static/media/hero-bg.b24b1c7283af6cca3fab.jpg",
     "static/media/product-img-1.jpg": "/ahmed-store/static/media/product-img-1.27970c1e3a6a17eac5b8.jpg",
@@ -21,10 +21,10 @@
     "static/media/logo.png": "/ahmed-store/static/media/logo.9adc4659e829b833f7e3.png",
     "index.html": "/ahmed-store/index.html",
     "main.7437dfce.css.map": "/ahmed-store/static/css/main.7437dfce.css.map",
-    "main.3f508e3a.js.map": "/ahmed-store/static/js/main.3f508e3a.js.map"
+    "main.9e629040.js.map": "/ahmed-store/static/js/main.9e629040.js.map"
   },
   "entrypoints": [
     "static/css/main.7437dfce.css",
-    "static/js/main.3f508e3a.js"
+    "static/js/main.9e629040.js"
   ]
 }
